@@ -1,4 +1,6 @@
-Please view the website here: https://coal-jade-lunge.glitch.me
+# Upload an image to the server
 
+This app demonstrates a few things that are useful for Assignment 2
 
-Hope you enjoy!
+The browser-server communication required to upload an image file
+  
